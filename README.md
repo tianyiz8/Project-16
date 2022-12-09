@@ -6,7 +6,7 @@ Team members:\
 Bryant Zhou (tianyiz8)\
 Niket Parikh (niketnp2)\
 Sahil Agrawal (sahila4)\
-Sai Chetan (scc8)\
+Sai Chetan (scc8)
 
 ## Problem Statement
 
