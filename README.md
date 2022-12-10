@@ -13,7 +13,7 @@ Sai Chetan (scc8)
 Imports and exports of agricultural goods by the country via sea is one of the main ways that the US earns profits on goods produced and aquires some of its products. It is necessary to know what the expected imports and exports will be in future years, so that we can plan accordingly. This will enable us to judge if our infrastructure is enough to handle these shipments and what the appropriate prices will be. Also, it will enable us to judge how much of a certain product to produce based on the expected import or export; we don't want to be in dearth of a product for which the import will be less.\
 So, given past years data on imports and exports of the country measured in metric tons, we want to predict the future export and import in metric tons. Additional information like the port of entry/exit, the type of the product and whether it needs to be refridgerated or not, will allow the prediction for each of these categories individually also (as opposed to the entire import or export). Additionally, to adjust for inflation, we will use the Food CPI inflation of the country to estimate inflation in exports and imports.
 
-## Some Details
+## Links
 All relevant files for this project can be found at [this Google Driver folder](https://drive.google.com/drive/folders/1jt2gf0QH4dDJpgL8YObHjaHnSf9UTvPN?usp=sharing/). A presentation slides of this work can be found [here](https://docs.google.com/presentation/d/1iGGdK7zHHFcxDV4hq_-zj_rfz9N2DjXC-AzQ-F2RAhM/edit?usp=sharing/). A video presentation for the same can be found [here](https://youtu.be/gc4oIe1DeKM/).
 
 ### project16.ipynb
