@@ -14,9 +14,9 @@ Imports and exports of agricultural goods by the country via sea is one of the m
 So, given past years data on imports and exports of the country measured in metric tons, we want to predict the future export and import in metric tons. Additional information like the port of entry/exit, the type of the product and whether it needs to be refridgerated or not, will allow the prediction for each of these categories individually also (as opposed to the entire import or export). Additionally, to adjust for inflation, we will use the Food CPI inflation of the country to estimate inflation in exports and imports.
 
 ## Links
-Google Drive: [this Google Driver folder](https://drive.google.com/drive/folders/1jt2gf0QH4dDJpgL8YObHjaHnSf9UTvPN?usp=sharing/). <br />
-Slides: [here](https://docs.google.com/presentation/d/1iGGdK7zHHFcxDV4hq_-zj_rfz9N2DjXC-AzQ-F2RAhM/edit?usp=sharing/). <br />
-Video: [here](https://youtu.be/gc4oIe1DeKM/).
+Google Drive: [link](https://drive.google.com/drive/folders/1jt2gf0QH4dDJpgL8YObHjaHnSf9UTvPN?usp=sharing/). <br />
+Slides: [link](https://docs.google.com/presentation/d/1iGGdK7zHHFcxDV4hq_-zj_rfz9N2DjXC-AzQ-F2RAhM/edit?usp=sharing/). <br />
+Video: [link](https://youtu.be/gc4oIe1DeKM/).
 
 ## Files
 ### project16.ipynb
